@@ -1,0 +1,1 @@
+This was a set of notes that I developed for EE127/227A while working as a GSI for the course in Spring 2017. (Laurent El Ghaoui was the course instructor at the time.) Credit to Armin Askari helping put together Section 10. 

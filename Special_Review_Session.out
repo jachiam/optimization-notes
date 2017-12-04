@@ -1,0 +1,77 @@
+\BOOKMARK [1][-]{section.1}{Vector Concepts}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Linear Independence}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Orthogonality and Orthonormality}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Span}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{Matrix Concepts}{}% 5
+\BOOKMARK [2][-]{subsection.2.1}{Dyads}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.2}{Orthogonal Matrix}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.3}{Trace}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.4}{Invertibility}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Range and Nullspace}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Range}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Nullspace}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Rank-Nullity Theorem}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{Examples}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Fundamental Theorem of Linear Algebra}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{How to Apply Fundamental Theorem of Linear Algebra}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Getting the range or nullspace when you only know the other}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Eigenvalue Decomposition and Singular Value Decomposition}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{Eigendecomposition}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.2}{SVD}{section.5}% 20
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Compact Form}{subsection.5.2}% 21
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Expanded Form}{subsection.5.2}% 22
+\BOOKMARK [2][-]{subsection.5.3}{Recovering U or V given A, , and the other}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.4}{Recovering ui or vi given A, i, and the other}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.5}{Connecting SVD to Eigendecomposition}{section.5}% 25
+\BOOKMARK [1][-]{section.6}{The Most Important Equation in Linear Algebra: Ax = b}{}% 26
+\BOOKMARK [2][-]{subsection.6.1}{Case 1: A is invertible \(One Solution\)}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.2}{Case 2: b -.25ex-.25ex-.25ex-.25exR\(A\) \(Zero Solutions\)}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.3}{Case 3: A is not invertible, but b R\(A\) \(Infinity Solutions\)}{section.6}% 29
+\BOOKMARK [1][-]{section.7}{Projections}{}% 30
+\BOOKMARK [2][-]{subsection.7.1}{Projecting onto a line}{section.7}% 31
+\BOOKMARK [2][-]{subsection.7.2}{Projecting onto a plane}{section.7}% 32
+\BOOKMARK [2][-]{subsection.7.3}{Projection onto a subspace}{section.7}% 33
+\BOOKMARK [2][-]{subsection.7.4}{Vectors and Tensors: Invariance Under Rotations}{section.7}% 34
+\BOOKMARK [1][-]{section.8}{Optimization Concepts}{}% 35
+\BOOKMARK [2][-]{subsection.8.1}{You Can Optimize In Any Order}{section.8}% 36
+\BOOKMARK [3][-]{subsubsection.8.1.1}{What about constraints?}{subsection.8.1}% 37
+\BOOKMARK [3][-]{subsubsection.8.1.2}{What if I have a min and a max? Does this still work?}{subsection.8.1}% 38
+\BOOKMARK [2][-]{subsection.8.2}{Solving Simple Unconstrained Optimization Problems}{section.8}% 39
+\BOOKMARK [2][-]{subsection.8.3}{Example: Single-Variable Quadratic Optimization}{section.8}% 40
+\BOOKMARK [2][-]{subsection.8.4}{Example: Multivariable Least-Squares}{section.8}% 41
+\BOOKMARK [2][-]{subsection.8.5}{Example: L2-Regularized Least-Squares}{section.8}% 42
+\BOOKMARK [1][-]{section.9}{Convex Sets}{}% 43
+\BOOKMARK [2][-]{subsection.9.1}{Examples of Convex Sets}{section.9}% 44
+\BOOKMARK [3][-]{subsubsection.9.1.1}{Affine Sets}{subsection.9.1}% 45
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Hyperplanes and Halfspaces}{subsection.9.1}% 46
+\BOOKMARK [3][-]{subsubsection.9.1.3}{Euclidean Balls}{subsection.9.1}% 47
+\BOOKMARK [2][-]{subsection.9.2}{Operations Preserving Convexity}{section.9}% 48
+\BOOKMARK [1][-]{section.10}{Convex Functions}{}% 49
+\BOOKMARK [2][-]{subsection.10.1}{First-Order Conditions for Convexity}{section.10}% 50
+\BOOKMARK [2][-]{subsection.10.2}{Second-Order Conditions for Convexity}{section.10}% 51
+\BOOKMARK [2][-]{subsection.10.3}{Examples of Convex Functions}{section.10}% 52
+\BOOKMARK [2][-]{subsection.10.4}{Operations that preserve convexity}{section.10}% 53
+\BOOKMARK [2][-]{subsection.10.5}{Examples of proving convexity using operations that preserve convexity}{section.10}% 54
+\BOOKMARK [1][-]{section.11}{Convex Optimization: Definitions}{}% 55
+\BOOKMARK [2][-]{subsection.11.1}{Linear Programs \(LP\)}{section.11}% 56
+\BOOKMARK [2][-]{subsection.11.2}{Quadratic Programs \(QP\)}{section.11}% 57
+\BOOKMARK [1][-]{section.12}{Convex Optimization: Equivalent Optimization Problems}{}% 58
+\BOOKMARK [2][-]{subsection.12.1}{Simple Sub-problems}{section.12}% 59
+\BOOKMARK [2][-]{subsection.12.2}{Equality-Preserving Transformations}{section.12}% 60
+\BOOKMARK [2][-]{subsection.12.3}{Constraint Magic}{section.12}% 61
+\BOOKMARK [1][-]{section.13}{Duality Intro: Defining Weak and Strong Duality}{}% 62
+\BOOKMARK [2][-]{subsection.13.1}{Weak Duality}{section.13}% 63
+\BOOKMARK [2][-]{subsection.13.2}{Strong Duality}{section.13}% 64
+\BOOKMARK [1][-]{section.14}{Duality Intro: Lagrange Dual Problems}{}% 65
+\BOOKMARK [2][-]{subsection.14.1}{Why Does the Min-Max Formulation Work?}{section.14}% 66
+\BOOKMARK [2][-]{subsection.14.2}{Lagrange Dual Problems Always Exist}{section.14}% 67
+\BOOKMARK [2][-]{subsection.14.3}{Lagrange Dual Problems Are Not Unique}{section.14}% 68
+\BOOKMARK [2][-]{subsection.14.4}{Lagrange Dual Problems for Maximization Primal Problems}{section.14}% 69
+\BOOKMARK [1][-]{section.15}{Duality Intro: When Does Strong Duality Hold?}{}% 70
+\BOOKMARK [2][-]{subsection.15.1}{Strong Duality for Lagrange Dual Problems}{section.15}% 71
+\BOOKMARK [2][-]{subsection.15.2}{Strong Duality for General Min-Max Problems}{section.15}% 72
+\BOOKMARK [1][-]{section.16}{KKT Conditions}{}% 73
+\BOOKMARK [1][-]{section.17}{More Magic}{}% 74
+\BOOKMARK [2][-]{subsection.17.1}{The Norm Trick}{section.17}% 75
+\BOOKMARK [2][-]{subsection.17.2}{``Min\204There Exists'' Trick}{section.17}% 76
+\BOOKMARK [2][-]{subsection.17.3}{Bad Case of the Infinities}{section.17}% 77
